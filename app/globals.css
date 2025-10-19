@@ -1,42 +1,46 @@
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 html,
 body {
-  max-width: 100vw;
-  overflow-x: hidden;
+  height: 100vh;
+  margin: 0px;
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background: #000000;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(0, 4, 1, 1) 53%,
+    rgba(0, 82, 33, 1) 100%
+  );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
-* {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
+.TextShadow {
+  text-shadow: 1px 1px 2px rgb(1, 160, 22);
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+.MarginTop {
+  margin-top: 175px;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
+.BorderSeparador {
+  border-bottom: 1px solid white;
+}
+
+.BoxShadow {
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.502);
+}
+
+#portada {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: aparecer 2s ease-out forwards;
+}
+
+@keyframes aparecer {
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
