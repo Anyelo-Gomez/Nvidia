@@ -65,7 +65,7 @@ body {
 }
 
 #dlss {
-  background-image: url("https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/graphic-cards/50-series/rtx-5080/geforce-dlss4-cyberpunk-2077-bm-xl770-d@2x.jpg");
+  background-image: url("/dlss portada.png");
   background-repeat: no-repeat;
   background-size: cover;
   height: auto;
