@@ -117,7 +117,7 @@ export default function Home() {
                 </p>
                 <Link
                   href={`dlss`}
-                  className="nav-link pb-3 d-flex align-items-center"
+                  className="nav-link pb-5 d-flex align-items-center"
                 >
                   <h5>Descubre cómo mejora la IA el juego</h5>
                   <i className="bi bi-arrow-right-short a fs-1"></i>
