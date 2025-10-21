@@ -3,10 +3,6 @@
 import Link from "next/link";
 import { useState } from "react";
 
-type Props = {
-  href?: string;
-};
-
 export default function ButtonScroll() {
   const [icon, setIcon] = useState("bi-caret-down-fill");
   return (

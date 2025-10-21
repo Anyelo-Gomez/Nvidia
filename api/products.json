@@ -1,0 +1,76 @@
+{
+   "products": [
+      {
+         "id": 0,
+         "title": "Asus TUF Gaming GeForce RTX 5090 32GB GDDR7 OC Edition DLSS4 - Tarjeta gráfica",
+         "image": "https://assets.nvidia.partners/images/png/90YV0LY0-M0NA00_ES.png",
+         "price": "2,898.99"
+      },
+      {
+         "id": 1,
+         "title": "Asus TUF Gaming GeForce RTX 5090 32GB GDDR7 DLSS4 - Tarjeta gráfica",
+         "image": "https://assets.nvidia.partners/images/png/90YV0LY1-M0NA00_ES.png",
+         "price": "2,499.95"
+      },
+      {
+         "id": 2,
+         "title": "MSI GeForce RTX 5090 Gaming Trio OC 32GB GDDR7 DLSS4 - Tarjeta gráfica",
+         "image": "https://assets.nvidia.partners/images/png/912-v530-014.png",
+         "price": "2,699.95"
+      },
+      {
+         "id": 3,
+         "title": "MSI GeForce RTX 5090 Suprim SOC 32GB GDDR7 DLSS4 | Tarjeta Gráfica Nvidia",
+         "image": "https://media.lifeinformatica.com/contents/Life/MSI-912-V530-012/imgs/912-V530-012-01_150x150.png",
+         "price": "2,699.95"
+      },
+      {
+         "id": 4,
+         "title": "MSI GeForce RTX 5090 VANGUARD SOC 32GB GDDR7 Reflex 2 RTX AI DLSS4",
+         "image": "https://assets.nvidia.partners/images/png/4711377302500_ES.png",
+         "price": "2,729.90"
+      },
+      {
+         "id": 5,
+         "title": "MSI GeForce RTX 5090 Ventus 3X OC 32GB GDDR7 DLSS4 | Tarjeta Gráfica Nvidia",
+         "image": "https://media.lifeinformatica.com/contents/Life/MSI-912-V530-061/imgs/912-V530-061-01_150x150.png",
+         "price": "2,748.04"
+      },
+      {
+         "id": 6,
+         "title": "Gigabyte GeForce RTX 5090 Aorus Extreme Waterforce 32GB GDDR7 DLSS4 | Tarjeta Gráfica Nvidia",
+         "image": "https://media.lifeinformatica.com/contents/Life/GIGABYTE-GV-N5090AORUSX_W-32GD/imgs/GV-N5090AORUSX_W-32GD-01_150x150.png",
+         "price": "2,753.90"
+      },
+      {
+         "id": 7,
+         "title": "MSI GeForce RTX 5090 VANGUARD SOC LAUNCH EDITION 32GB GDDR7 DLSS4",
+         "image": "https://assets.nvidia.partners/images/png/4711377302517_ES.png",
+         "price": "2,799.00"
+      },
+      {
+         "id": 8,
+         "title": "MSI GeForce RTX 5090 Suprim Liquid SOC 32GB GDDR7 DLSS4 | Tarjeta Gráfica Nvidia",
+         "image": "https://media.lifeinformatica.com/contents/Life/MSI-912-V530-011/imgs/912-V530-011-01_150x150.png",
+         "price": "2,799.95"
+      },
+      {
+         "id": 9,
+         "title": "MSI GeForce RTX 5090 SUPRIM LIQUID 32GB GDDR7 DLSS4",
+         "image": "https://assets.nvidia.partners/images/png/912-v530-011.png",
+         "price": "3,009.67"
+      },
+      {
+         "id": 10,
+         "title": "Asus GeForce RTX 5090 TUF Gaming OC 32GB GDDR7 DLSS4 | Tarjeta Gráfica Nvidia",
+         "image": "https://media.lifeinformatica.com/contents/Life/ASUS-TUF-RTX5090-O32G-GAMING/imgs/TUF-RTX5090-O32G-GAMING-01_150x150.png",
+         "price": "3,022.17"
+      },
+      {
+         "id": 11,
+         "title": "Asus ROG Astral LC GeForce RTX 5090 32GB GDDR7 DLSS4 - Tarjeta gráfica",
+         "image": "https://www.neobyte.es/150179-large_default/asus-rog-astral-lc-geforce-rtx-5090-32gb-gddr7-dlss4-tarjeta-grafica.jpg",
+         "price": "3,070.90"
+      }
+   ]
+}
